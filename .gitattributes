@@ -1,0 +1,2 @@
+# Count backend source in the repository language summary; omit HTML views.
+templates/*.html linguist-detectable=false
